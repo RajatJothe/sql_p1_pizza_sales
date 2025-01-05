@@ -1,14 +1,14 @@
 # sql_p1_pizza_sales
 # questions
-Basic:
-  Retrieve the total number of orders placed.
-  Calculate the total revenue generated from pizza sales.
-  Identify the highest-priced pizza.
-  Identify the most common pizza size ordered.
-  List the top 5 most ordered pizza types along with their quantities.
+## Basic:
+  1.Retrieve the total number of orders placed.
+  2.Calculate the total revenue generated from pizza sales.
+  3.Identify the highest-priced pizza.
+  4.Identify the most common pizza size ordered.
+  5.List the top 5 most ordered pizza types along with their quantities.
 
 
-Intermediate:
+## Intermediate:
   Join the necessary tables to find the total quantity of each pizza category ordered.
   Determine the distribution of orders by hour of the day.
   Join relevant tables to find the category-wise distribution of pizzas.
