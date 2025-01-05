@@ -1,5 +1,5 @@
 # sql_p1_pizza_sales
-#questions
+# questions
 Basic:
 Retrieve the total number of orders placed.
 Calculate the total revenue generated from pizza sales.
